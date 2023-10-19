@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pacepal/static/css/main.79760ab8.css",
+    "main.js": "/pacepal/static/js/main.41f45123.js",
+    "static/js/787.a5dabb04.chunk.js": "/pacepal/static/js/787.a5dabb04.chunk.js",
+    "index.html": "/pacepal/index.html",
+    "main.79760ab8.css.map": "/pacepal/static/css/main.79760ab8.css.map",
+    "main.41f45123.js.map": "/pacepal/static/js/main.41f45123.js.map",
+    "787.a5dabb04.chunk.js.map": "/pacepal/static/js/787.a5dabb04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79760ab8.css",
+    "static/js/main.41f45123.js"
+  ]
+}
